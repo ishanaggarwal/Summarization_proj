@@ -29,6 +29,10 @@
 ## Some Screenshots from my Project
 ![image](https://github.com/user-attachments/assets/2d3f3d4e-194f-4dfe-9aca-f97b5dba2cfa)
 ![image](https://github.com/user-attachments/assets/62ccdc03-fd41-49c8-a3a7-24b926f140ee)
+![image](https://github.com/user-attachments/assets/dd3f47d9-67fd-4c09-8fe7-74698b682615)
+![image](https://github.com/user-attachments/assets/24a1f0a3-bb97-45f3-9426-ed1690d2b6aa)
+
+
 
 
 ## Project Overview
