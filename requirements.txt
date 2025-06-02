@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+spacy
+sentence-transformers
+faiss-cpu
+python-docx
+pdfminer.six
+pytesseract
+Pillow
