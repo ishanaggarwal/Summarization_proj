@@ -1,4 +1,5 @@
 # Resume Summarization & Search Pipeline
+###by Ishan Aggarwal
 
 ## Table of Contents
 
